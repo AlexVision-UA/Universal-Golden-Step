@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Прозорість — Universal Golden Step</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { margin:0; font-family:'Segoe UI',Arial,sans-serif; background:linear-gradient(to bottom,#fff8dc,#ffd700); color:#333; }
+    header { text-align:center; padding:30px; color:gold; }
+    h1 { margin:10px 0; font-size:2.4em; color:gold; text-shadow:2px 2px 4px black; }
+    p.slogan { font-size:1.2em; color:black; }
+    nav { text-align:center; background:#ffcc00; padding:10px; }
+    nav a { margin:0 10px; padding:8px 14px; background:#ffd700; border:2px solid #e6b800; border-radius:6px; text-decoration:none; color:black; transition:0.3s; }
+    nav a:hover { background:#e6b800; transform:scale(1.05); }
+    main { padding:30px; }
+    table { width:100%; border-collapse:collapse; margin:20px 0; }
+    table th, table td { border:1px solid #e6b800; padding:10px; text-align:center; }
+    table th { background:#ffcc00; }
+    .charts { display:flex; flex-wrap:wrap; justify-content:center; margin-top:30px; }
+    .chart { background:#fff8dc; border:2px solid #e6b800; border-radius:10px; width:45%; min-width:300px; margin:15px; padding:20px; text-align:center; }
+    canvas { width:100% !important; height:300px !important; }
+    footer { text-align:center; padding:20px; background:#333; color:#fff; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Universal Golden Step Logo" style="width:200px;">
+    <h1>Universal Golden Step</h1>
+    <p class="slogan">Прозорість — кожна дія задокументована</p>
+  </header>
+
+  <nav>
+    <a href="index.html">🏠 Головна</a>
+    <a href="contacts.html">📞 Контакти</a>
+    <a href="about.html">ℹ️ Про платформу</a>
+    <a href="courses.html">🎓 Курси</a>
+    <a href="marketplace.html">🛒 Маркетплейс</a>
+    <a href="community.html">👥 Спільнота</a>
+    <a href="transparency.html">🔍 Прозорість</a>
+    <a href="projects.html">🌍 Проєкти</a>
+    <a href="partners.html">🤝 Партнери</a>
+  </nav>
+
+  <main>
+    <h2>Останні дії (Audit Logs)</h2>
+    <table>
+      <tr>
+        <th>Час</th>
+        <th>Користувач</th>
+        <th>Дія</th>
+        <th>Таблиця</th>
+        <th>Деталі</th>
+      </tr>
+      <tr>
+        <td>2026-03-08 17:45</td>
+        <td>Admin</td>
+        <td>DELETE</td>
+        <td>Orders</td>
+        <td>Видалено замовлення ID 123 (Cascade)</td>
+      </tr>
+      <tr>
+        <td>2026-03-08 16:20</td>
+        <td>Manager</td>
+        <td>UPDATE</td>
+        <td>Users</td>
+        <td>Оновлено email користувача ID 56</td>
+      </tr>
+    </table>
+
+    <div class="charts">
+      <div class="chart">
+        <h3>Каскадні дії по днях</h3>
+        <canvas id="dailyChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Топ таблиць за каскадними видаленнями</h3>
+        <canvas id="tablesChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Дії по Actor</h3>
+        <canvas id="actorChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Місячна динаміка каскадних дій</h3>
+        <canvas id="monthlyChart"></canvas>
+      </div>
+    </div>
+  </main>
+
+  <footer>© Universal Golden Step, 2026</footer>
+
+  <script>
+    // Daily actions bar chart
+    new Chart(document.getElementById('dailyChart'), {
+      type: 'bar',
+      data: {
+        labels: ['Пн','Вт','Ср','Чт','Пт','Сб','Нд'],
+        datasets: [{
+          label: 'Каскадні дії',
+          data: [12, 19, 7, 15, 9, 4, 6],
+          backgroundColor: '#ffd700'
+        }]
+      }
+    });
+
+    // Tables pie chart
+    new Chart(document.getElementById('tablesChart'), {
+      type: 'pie',
+      data: {
+        labels: ['Users','Orders','Products'],
+        datasets: [{
+          data: [45, 30, 25],
+          backgroundColor: ['#ffcc00','#e6b800','#999']
+        }]
+      }
+    });
+
+    // Actor pie chart
+    new Chart(document.getElementById('actorChart'), {
+      type: 'pie',
+      data: {
+        labels: ['Admin','Manager','User'],
+        datasets: [{
+          data: [50, 30, 20],
+          backgroundColor: ['#ffd700','#e6b800','#999']
+        }]
+      }
+    });
+
+    // Monthly line chart
+    new Chart(document.getElementById('monthlyChart'), {
+      type: 'line',
+      data: {
+        labels: ['Січ','Лют','Бер','Кві','Тра'],
+        datasets: [{
+          label: 'Admin',
+          data: [30, 50, 70, 90, 110],
+          borderColor: '#ffd700',
+          fill: false
+        },{
+          label: 'Manager',
+          data: [20, 40, 60, 50, 70],
+          borderColor: '#e6b800',
+          fill: false
+        }]
+      }
+    });
+  </script>
+</body>
+</html>

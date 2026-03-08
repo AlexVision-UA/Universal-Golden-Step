@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Przejrzystość — Universal Golden Step</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { margin:0; font-family:'Segoe UI',Arial,sans-serif; background:linear-gradient(to bottom,#fff8dc,#ffd700); color:#333; }
+    header { text-align:center; padding:30px; color:gold; }
+    h1 { margin:10px 0; font-size:2.4em; color:gold; text-shadow:2px 2px 4px black; }
+    p.slogan { font-size:1.2em; color:black; }
+    nav { text-align:center; background:#ffcc00; padding:10px; }
+    nav a { margin:0 10px; padding:8px 14px; background:#ffd700; border:2px solid #e6b800; border-radius:6px; text-decoration:none; color:black; transition:0.3s; }
+    nav a:hover { background:#e6b800; transform:scale(1.05); }
+    main { padding:30px; }
+    table { width:100%; border-collapse:collapse; margin:20px 0; }
+    table th, table td { border:1px solid #e6b800; padding:10px; text-align:center; }
+    table th { background:#ffcc00; }
+    .charts { display:flex; flex-wrap:wrap; justify-content:center; margin-top:30px; }
+    .chart { background:#fff8dc; border:2px solid #e6b800; border-radius:10px; width:45%; min-width:300px; margin:15px; padding:20px; text-align:center; }
+    canvas { width:100% !important; height:300px !important; }
+    footer { text-align:center; padding:20px; background:#333; color:#fff; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Universal Golden Step Logo" style="width:200px;">
+    <h1>Universal Golden Step</h1>
+    <p class="slogan">Przejrzystość — każda akcja udokumentowana</p>
+  </header>
+
+  <nav>
+    <a href="index_pl.html">🏠 Strona główna</a>
+    <a href="contacts_pl.html">📞 Kontakt</a>
+    <a href="about_pl.html">ℹ️ O platformie</a>
+    <a href="courses_pl.html">🎓 Kursy</a>
+    <a href="marketplace_pl.html">🛒 Marketplace</a>
+    <a href="community_pl.html">👥 Społeczność</a>
+    <a href="transparency_pl.html">🔍 Przejrzystość</a>
+    <a href="projects_pl.html">🌍 Projekty</a>
+    <a href="partners_pl.html">🤝 Partnerzy</a>
+  </nav>
+
+  <main>
+    <h2>Ostatnie działania (Audit Logs)</h2>
+    <table>
+      <tr>
+        <th>Czas</th>
+        <th>Użytkownik</th>
+        <th>Akcja</th>
+        <th>Tabela</th>
+        <th>Szczegóły</th>
+      </tr>
+      <tr>
+        <td>2026-03-08 17:45</td>
+        <td>Admin</td>
+        <td>DELETE</td>
+        <td>Zamówienia</td>
+        <td>Usunięto zamówienie ID 123 (Cascade)</td>
+      </tr>
+      <tr>
+        <td>2026-03-08 16:20</td>
+        <td>Manager</td>
+        <td>UPDATE</td>
+        <td>Użytkownicy</td>
+        <td>Zaktualizowano email użytkownika ID 56</td>
+      </tr>
+    </table>
+
+    <div class="charts">
+      <div class="chart">
+        <h3>Akcje kaskadowe według dni</h3>
+        <canvas id="dailyChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Najczęściej używane tabele</h3>
+        <canvas id="tablesChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Akcje według aktora</h3>
+        <canvas id="actorChart"></canvas>
+      </div>
+      <div class="chart">
+        <h3>Miesięczne trendy kaskadowe</h3>
+        <canvas id="monthlyChart"></canvas>
+      </div>
+    </div>
+  </main>
+
+  <footer>© Universal Golden Step, 2026</footer>
+
+  <script>
+    // Daily actions bar chart
+    new Chart(document.getElementById('dailyChart'), {
+      type: 'bar',
+      data: {
+        labels: ['Pon','Wt','Śr','Cz','Pt','So','Nd'],
+        datasets: [{
+          label: 'Akcje kaskadowe',
+          data: [12, 19, 7, 15, 9, 4, 6],
+          backgroundColor: '#ffd700'
+        }]
+      }
+    });
+
+    // Tables pie chart
+    new Chart(document.getElementById('tablesChart'), {
+      type: 'pie',
+      data: {
+        labels: ['Użytkownicy','Zamówienia','Produkty'],
+        datasets: [{
+          data: [45, 30, 25],
+          backgroundColor: ['#ffcc00','#e6b800','#999']
+        }]
+      }
+    });
+
+    // Actor pie chart
+    new Chart(document.getElementById('actorChart'), {
+      type: 'pie',
+      data: {
+        labels: ['Admin','Manager','Użytkownik'],
+        datasets: [{
+          data: [50, 30, 20],
+          backgroundColor: ['#ffd700','#e6b800','#999']
+        }]
+      }
+    });
+
+    // Monthly line chart
+    new Chart(document.getElementById('monthlyChart'), {
+      type: 'line',
+      data: {
+        labels: ['Sty','Lut','Mar','Kwi','Maj'],
+        datasets: [{
+          label: 'Admin',
+          data: [30, 50, 70, 90, 110],
+          borderColor: '#ffd700',
+          fill: false
+        },{
+          label: 'Manager',
+          data: [20, 40, 60, 50, 70],
+          borderColor: '#e6b800',
+          fill: false
+        }]
+      }
+    });
+  </script>
+</body>
+</html>
