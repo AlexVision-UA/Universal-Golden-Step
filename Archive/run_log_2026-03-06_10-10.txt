@@ -1,0 +1,173 @@
+=== Новий запуск: 03/06/2026 10:10:16 ===
+[03/06/2026 10:10:17] 1. Створення структури
+[03/06/2026 10:10:17] 1. Створення структури успішно (26)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/06/2026 10:10:17] 2. Наповнення файлів
+[03/06/2026 10:10:17] 2. Наповнення файлів успішно (52)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-11.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-19.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-26.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-33.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-45.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_09-46.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log_2026-03-06_10-10.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\summary.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\summary.pdf
+    Already has content: C:\Users\melal\Universal Golden_Step\summary.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\run_log_2026-03-06_09-19.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\run_log_2026-03-06_09-26.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\run_log_2026-03-06_09-34.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\run_log_2026-03-06_09-45.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\run_log_2026-03-06_09-46.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-19.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-19.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-26.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-26.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-34.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-34.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-45.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-45.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-46.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\2026-03-06\Archive\summary_2026-03-06_09-46.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Archive\run_log_2026-03-06_09-11.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Archive\summary_2026-03-06_09-11.csv
+    Already has content: C:\Users\melal\Universal Golden_Step\Archive\summary_2026-03-06_09-11.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/06/2026 10:10:19] 3. Унікальне наповнення
+[03/06/2026 10:10:19] 3. Унікальне наповнення успішно (17)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/06/2026 10:10:19] 4. Перевірка структури
+[03/06/2026 10:10:19] 4. Перевірка структури успішно (69)
+    Структура проекту:
+    +-- Universal Golden_Step (17 файлів)
+    ¦   L-- check_files.ps1
+    ¦   L-- check_structure.ps1
+    ¦   L-- create_structure.ps1
+    ¦   L-- fill_files.ps1
+    ¦   L-- fill_unique.ps1
+    ¦   L-- run_all.ps1
+    ¦   L-- run_log.txt
+    ¦   L-- run_log_2026-03-06_09-11.txt
+    ¦   L-- run_log_2026-03-06_09-19.txt
+    ¦   L-- run_log_2026-03-06_09-26.txt
+    ¦   L-- run_log_2026-03-06_09-33.txt
+    ¦   L-- run_log_2026-03-06_09-45.txt
+    ¦   L-- run_log_2026-03-06_09-46.txt
+    ¦   L-- run_log_2026-03-06_10-10.txt
+    ¦   L-- summary.csv
+    ¦   L-- summary.pdf
+    ¦   L-- summary.txt
+    ¦   +-- 2026-03-06 (0 файлів)
+    ¦   ¦   +-- Archive (15 файлів)
+    ¦   ¦   ¦   L-- run_log_2026-03-06_09-19.txt
+    ¦   ¦   ¦   L-- run_log_2026-03-06_09-26.txt
+    ¦   ¦   ¦   L-- run_log_2026-03-06_09-34.txt
+    ¦   ¦   ¦   L-- run_log_2026-03-06_09-45.txt
+    ¦   ¦   ¦   L-- run_log_2026-03-06_09-46.txt
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-19.csv
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-19.txt
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-26.csv
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-26.txt
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-34.csv
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-34.txt
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-45.csv
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-45.txt
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-46.csv
+    ¦   ¦   ¦   L-- summary_2026-03-06_09-46.txt
+    ¦   +-- Archive (3 файлів)
+    ¦   ¦   L-- run_log_2026-03-06_09-11.txt
+    ¦   ¦   L-- summary_2026-03-06_09-11.csv
+    ¦   ¦   L-- summary_2026-03-06_09-11.txt
+    ¦   +-- Core (2 файлів)
+    ¦   ¦   L-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs (2 файлів)
+    ¦   ¦   L-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal (3 файлів)
+    ¦   ¦   L-- Concept.docx
+    ¦   ¦   L-- NDA.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   ¦   +-- Agreements (2 файлів)
+    ¦   ¦   ¦   L-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Modules (0 файлів)
+    ¦   ¦   +-- Analytics (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Social (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   +-- Presentation (2 файлів)
+    ¦   ¦   L-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   +-- Website (1 файлів)
+    ¦   ¦   L-- Content.txt

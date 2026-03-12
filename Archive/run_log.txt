@@ -1,0 +1,1373 @@
+=== овий запуск: 03/05/2026 23:07:31 ===
+=== авершено: 03/05/2026 23:07:31 ===
+=== Новий запуск: 03/05/2026 23:12:55 ===
+[03/05/2026 23:12:55] 1. Створення структури
+[03/05/2026 23:12:55] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:12:55] 2. Наповнення файлів
+[03/05/2026 23:12:55] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:12:55] 3. Унікальне наповнення
+[03/05/2026 23:12:55] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:12:55] 4. Перевірка структури
+[03/05/2026 23:12:55] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:12:56 ===
+=== овий запуск: 03/05/2026 23:15:00 ===
+[03/05/2026 23:15:00] 1. Створення структури
+[03/05/2026 23:15:00] 1. Створення структури помилка: The term '.\create_structure.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+[03/05/2026 23:15:00] 2. аповнення файлів
+[03/05/2026 23:15:00] 2. аповнення файлів помилка: The term '.\fill_files.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+[03/05/2026 23:15:00] 3. нікальне наповнення
+[03/05/2026 23:15:00] 3. нікальне наповнення помилка: The term '.\fill_unique.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+[03/05/2026 23:15:00] 4. еревірка структури
+[03/05/2026 23:15:00] 4. еревірка структури помилка: The term '.\check_structure.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+=== авершено: 03/05/2026 23:15:00 ===
+ідсумок: створено === 1. Створення структури === омилка у 1. Створення структури: The term '.\create_structure.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 0, заповнено === 2. аповнення файлів === омилка у 2. аповнення файлів: The term '.\fill_files.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 0, унікально оновлено === 3. нікальне наповнення === омилка у 3. нікальне наповнення: The term '.\fill_unique.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 0, перевірено === 4. еревірка структури === омилка у 4. еревірка структури: The term '.\check_structure.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. 0 елементів.
+=== Новий запуск: 03/05/2026 23:16:16 ===
+[03/05/2026 23:16:16] 1. Створення структури
+[03/05/2026 23:16:16] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:16:16] 2. Наповнення файлів
+[03/05/2026 23:16:16] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:16:16] 3. Унікальне наповнення
+[03/05/2026 23:16:16] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:16:16] 4. Перевірка структури
+[03/05/2026 23:16:16] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:16:17 ===
+=== Новий запуск: 03/05/2026 23:22:31 ===
+[03/05/2026 23:22:31] 1. Створення структури
+[03/05/2026 23:22:31] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:22:31] 2. Наповнення файлів
+[03/05/2026 23:22:31] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:22:31] 3. Унікальне наповнення
+[03/05/2026 23:22:31] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:22:31] 4. Перевірка структури
+[03/05/2026 23:22:31] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:22:31 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 0 елементів 0, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 0 елементів 0, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 66 елементів 66 елементів.
+=== Новий запуск: 03/05/2026 23:24:23 ===
+[03/05/2026 23:24:23] 1. Створення структури
+[03/05/2026 23:24:23] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:24:23] 2. Наповнення файлів
+[03/05/2026 23:24:23] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:24:23] 3. Унікальне наповнення
+[03/05/2026 23:24:23] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:24:23] 4. Перевірка структури
+[03/05/2026 23:24:23] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:24:24 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 0 елементів 0, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 0 елементів 0, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 66 елементів 66 елементів.
+=== Новий запуск: 03/05/2026 23:26:06 ===
+[03/05/2026 23:26:06] 1. Створення структури
+[03/05/2026 23:26:06] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:26:06] 2. Наповнення файлів
+[03/05/2026 23:26:06] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:26:06] 3. Унікальне наповнення
+[03/05/2026 23:26:06] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:26:06] 4. Перевірка структури
+[03/05/2026 23:26:06] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:26:07 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 0 елементів 0, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 0 елементів 0, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 66 елементів 66 елементів.
+=== Новий запуск: 03/05/2026 23:28:23 ===
+[03/05/2026 23:28:23] 1. Створення структури
+[03/05/2026 23:28:23] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:28:23] 2. Наповнення файлів
+[03/05/2026 23:28:23] 2. Наповнення файлів успішно виконано (0 елементів)
+[03/05/2026 23:28:23] 3. Унікальне наповнення
+[03/05/2026 23:28:23] 3. Унікальне наповнення успішно виконано (0 елементів)
+[03/05/2026 23:28:23] 4. Перевірка структури
+[03/05/2026 23:28:23] 4. Перевірка структури успішно виконано (66 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Universal Golden_Step
+    ¦   +-- Core
+    ¦   ¦   +-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs
+    ¦   ¦   +-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal
+    ¦   ¦   +-- Agreements
+    ¦   ¦   ¦   +-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   ¦   +-- Concept.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   +-- Modules
+    ¦   ¦   +-- Analytics
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   L-- Social
+    ¦   ¦       L-- Overview.md
+    ¦   +-- Presentation
+    ¦   ¦   +-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   L-- Website
+    ¦       L-- Content.txt
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:28:24 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 0 елементів 0, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 0 елементів 0, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 66 елементів 66 елементів.
+=== Новий запуск: 03/05/2026 23:54:05 ===
+[03/05/2026 23:54:05] 1. Створення структури
+[03/05/2026 23:54:05] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:54:05] 2. Наповнення файлів
+[03/05/2026 23:54:06] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/05/2026 23:54:06] 3. Унікальне наповнення
+[03/05/2026 23:54:06] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/05/2026 23:54:06] 4. Перевірка структури
+[03/05/2026 23:54:06] 4. Перевірка структури успішно виконано (37 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:54:06 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 24 елементів 24, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 17 елементів 17, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 37 елементів 37 елементів.
+=== Новий запуск: 03/05/2026 23:56:49 ===
+[03/05/2026 23:56:49] 1. Створення структури
+[03/05/2026 23:56:49] 1. Створення структури успішно виконано (0 елементів)
+[03/05/2026 23:56:49] 2. Наповнення файлів
+[03/05/2026 23:56:49] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/05/2026 23:56:49] 3. Унікальне наповнення
+[03/05/2026 23:56:50] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/05/2026 23:56:50] 4. Перевірка структури
+[03/05/2026 23:56:50] 4. Перевірка структури успішно виконано (37 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:56:50 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 0 елементів 0, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 24 елементів 24, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 17 елементів 17, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 37 елементів 37 елементів.
+=== Новий запуск: 03/05/2026 23:58:27 ===
+[03/05/2026 23:58:27] 1. Створення структури
+[03/05/2026 23:58:27] 1. Створення структури успішно виконано (26 елементів)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/05/2026 23:58:27] 2. Наповнення файлів
+[03/05/2026 23:58:27] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/05/2026 23:58:27] 3. Унікальне наповнення
+[03/05/2026 23:58:28] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/05/2026 23:58:28] 4. Перевірка структури
+[03/05/2026 23:58:28] 4. Перевірка структури успішно виконано (37 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/05/2026 23:58:28 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 26 елементів 26, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 24 елементів 24, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 17 елементів 17, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 37 елементів 37 елементів.
+=== Новий запуск: 03/06/2026 00:01:35 ===
+[03/06/2026 00:01:35] 1. Створення структури
+[03/06/2026 00:01:35] 1. Створення структури успішно виконано (26 елементів)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/06/2026 00:01:35] 2. Наповнення файлів
+[03/06/2026 00:01:35] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/06/2026 00:01:35] 3. Унікальне наповнення
+[03/06/2026 00:01:35] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/06/2026 00:01:36] 4. Перевірка структури
+[03/06/2026 00:01:36] 4. Перевірка структури успішно виконано (37 елементів)
+    Структура проекту:
+    +-- Core
+    ¦   +-- Architecture.docx
+    ¦   L-- Functions.md
+    +-- Docs
+    ¦   +-- Reports.docx
+    ¦   L-- Transparency.md
+    +-- Legal
+    ¦   +-- Agreements
+    ¦   ¦   +-- NDA.docx
+    ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Concept.docx
+    ¦   +-- NDA.docx
+    ¦   L-- Statute.docx
+    +-- Modules
+    ¦   +-- Analytics
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Business
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Charity
+    ¦   ¦   L-- Overview.md
+    ¦   +-- Education
+    ¦   ¦   L-- Overview.md
+    ¦   L-- Social
+    ¦       L-- Overview.md
+    +-- Presentation
+    ¦   +-- Full_Presentation.pptx
+    ¦   L-- Pitch.docx
+    +-- Website
+    ¦   L-- Content.txt
+    +-- check_files.ps1
+    +-- check_structure.ps1
+    +-- create_structure.ps1
+    +-- fill_files.ps1
+    +-- fill_unique.ps1
+    +-- run_all.ps1
+    L-- run_log.txt
+=== Завершено: 03/06/2026 00:01:36 ===
+Підсумок: створено === 1. Створення структури === 1. Створення структури: оброблено 26 елементів 26, заповнено === 2. Наповнення файлів === 2. Наповнення файлів: оброблено 24 елементів 24, унікально оновлено === 3. Унікальне наповнення === 3. Унікальне наповнення: оброблено 17 елементів 17, перевірено === 4. Перевірка структури === 4. Перевірка структури: оброблено 37 елементів 37 елементів.
+=== Новий запуск: 03/06/2026 00:32:04 ===
+[03/06/2026 00:32:04] 1. Створення структури
+[03/06/2026 00:32:04] 1. Створення структури успішно виконано (26 елементів)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/06/2026 00:32:04] 2. Наповнення файлів
+[03/06/2026 00:32:04] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/06/2026 00:32:04] 3. Унікальне наповнення
+[03/06/2026 00:32:04] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/06/2026 00:32:04] 4. Перевірка структури
+[03/06/2026 00:32:04] 4. Перевірка структури успішно виконано (38 елементів)
+    Структура проекту:
+    +-- Universal Golden_Step (7 файлів)
+    ¦   L-- check_files.ps1
+    ¦   L-- check_structure.ps1
+    ¦   L-- create_structure.ps1
+    ¦   L-- fill_files.ps1
+    ¦   L-- fill_unique.ps1
+    ¦   L-- run_all.ps1
+    ¦   L-- run_log.txt
+    ¦   +-- Core (2 файлів)
+    ¦   ¦   L-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs (2 файлів)
+    ¦   ¦   L-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal (3 файлів)
+    ¦   ¦   L-- Concept.docx
+    ¦   ¦   L-- NDA.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   ¦   +-- Agreements (2 файлів)
+    ¦   ¦   ¦   L-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Modules (0 файлів)
+    ¦   ¦   +-- Analytics (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Social (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   +-- Presentation (2 файлів)
+    ¦   ¦   L-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   +-- Website (1 файлів)
+    ¦   ¦   L-- Content.txt
+=== Завершено: 03/06/2026 00:32:05 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури   | 3        | Успішно
+2. Наповнення файлів     | 3          | Успішно
+3. Унікальне наповнення  | 3        | Успішно
+4. Перевірка структури   | 3         | Успішно
+=== Структура проекту з підрахунком ===
+Структура проекту:
++-- Universal Golden_Step (7 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Новий запуск: 03/06/2026 00:37:01 ===
+[03/06/2026 00:37:01] 1. Створення структури
+[03/06/2026 00:37:01] 1. Створення структури успішно виконано (26 елементів)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/06/2026 00:37:02] 2. Наповнення файлів
+[03/06/2026 00:37:02] 2. Наповнення файлів успішно виконано (24 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/06/2026 00:37:02] 3. Унікальне наповнення
+[03/06/2026 00:37:02] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/06/2026 00:37:02] 4. Перевірка структури
+[03/06/2026 00:37:03] 4. Перевірка структури успішно виконано (38 елементів)
+    Структура проекту:
+    +-- Universal Golden_Step (7 файлів)
+    ¦   L-- check_files.ps1
+    ¦   L-- check_structure.ps1
+    ¦   L-- create_structure.ps1
+    ¦   L-- fill_files.ps1
+    ¦   L-- fill_unique.ps1
+    ¦   L-- run_all.ps1
+    ¦   L-- run_log.txt
+    ¦   +-- Core (2 файлів)
+    ¦   ¦   L-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs (2 файлів)
+    ¦   ¦   L-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal (3 файлів)
+    ¦   ¦   L-- Concept.docx
+    ¦   ¦   L-- NDA.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   ¦   +-- Agreements (2 файлів)
+    ¦   ¦   ¦   L-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Modules (0 файлів)
+    ¦   ¦   +-- Analytics (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Social (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   +-- Presentation (2 файлів)
+    ¦   ¦   L-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   +-- Website (1 файлів)
+    ¦   ¦   L-- Content.txt
+=== Завершено: 03/06/2026 00:37:03 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури   | 3        | Успішно
+2. Наповнення файлів     | 3          | Успішно
+3. Унікальне наповнення  | 3        | Успішно
+4. Перевірка структури   | 3         | Успішно
+=== Структура проекту з підрахунком ===
+Структура проекту:
++-- Universal Golden_Step (8 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- summary.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 25
+Папок: 12
+=== Тривалість виконання: 00:00:02.1644926 ===
+=== Новий запуск: 03/06/2026 00:44:49 ===
+[03/06/2026 00:44:49] 1. Створення структури
+[03/06/2026 00:44:49] 1. Створення структури успішно виконано (26 елементів)
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Core
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Docs
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Legal\Agreements
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Analytics
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Business
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Charity
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Education
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Modules\Social
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Presentation
+    Папка вже існує: C:\Users\melal\Universal Golden_Step\Website
+    Файл вже існує: Architecture.docx
+    Файл вже існує: Functions.md
+    Файл вже існує: Reports.docx
+    Файл вже існує: Transparency.md
+    Файл вже існує: Concept.docx
+    Файл вже існує: Statute.docx
+    Файл вже існує: NDA.docx
+    Файл вже існує: Partnership_Agreement.docx
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Overview.md
+    Файл вже існує: Full_Presentation.pptx
+    Файл вже існує: Pitch.docx
+    Файл вже існує: Content.txt
+[03/06/2026 00:44:49] 2. Наповнення файлів
+[03/06/2026 00:44:49] 2. Наповнення файлів успішно виконано (25 елементів)
+    Already has content: C:\Users\melal\Universal Golden_Step\check_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\check_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\create_structure.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_files.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\fill_unique.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_all.ps1
+    Already has content: C:\Users\melal\Universal Golden_Step\run_log.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\summary.txt
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Core\Functions.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx
+    Already has content: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx
+    Already has content: C:\Users\melal\Universal Golden_Step\Website\Content.txt
+[03/06/2026 00:44:50] 3. Унікальне наповнення
+[03/06/2026 00:44:50] 3. Унікальне наповнення успішно виконано (17 елементів)
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Architecture.docx with Architecture draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Core\Functions.md with Functions draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Reports.docx with Reports draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Docs\Transparency.md with Transparency draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Concept.docx with Concept draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Statute.docx with Statute draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\NDA.docx with NDA draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Legal\Agreements\Partnership_Agreement.docx with Partnership Agreement draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Analytics\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Business\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Charity\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Education\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Modules\Social\Overview.md with Overview draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Full_Presentation.pptx with Presentation draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Presentation\Pitch.docx with Pitch draft
+    Filled file: C:\Users\melal\Universal Golden_Step\Website\Content.txt with Website content draft
+[03/06/2026 00:44:50] 4. Перевірка структури
+[03/06/2026 00:44:50] 4. Перевірка структури успішно виконано (39 елементів)
+    Структура проекту:
+    +-- Universal Golden_Step (8 файлів)
+    ¦   L-- check_files.ps1
+    ¦   L-- check_structure.ps1
+    ¦   L-- create_structure.ps1
+    ¦   L-- fill_files.ps1
+    ¦   L-- fill_unique.ps1
+    ¦   L-- run_all.ps1
+    ¦   L-- run_log.txt
+    ¦   L-- summary.txt
+    ¦   +-- Core (2 файлів)
+    ¦   ¦   L-- Architecture.docx
+    ¦   ¦   L-- Functions.md
+    ¦   +-- Docs (2 файлів)
+    ¦   ¦   L-- Reports.docx
+    ¦   ¦   L-- Transparency.md
+    ¦   +-- Legal (3 файлів)
+    ¦   ¦   L-- Concept.docx
+    ¦   ¦   L-- NDA.docx
+    ¦   ¦   L-- Statute.docx
+    ¦   ¦   +-- Agreements (2 файлів)
+    ¦   ¦   ¦   L-- NDA.docx
+    ¦   ¦   ¦   L-- Partnership_Agreement.docx
+    ¦   +-- Modules (0 файлів)
+    ¦   ¦   +-- Analytics (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Business (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Charity (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Education (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   ¦   +-- Social (1 файлів)
+    ¦   ¦   ¦   L-- Overview.md
+    ¦   +-- Presentation (2 файлів)
+    ¦   ¦   L-- Full_Presentation.pptx
+    ¦   ¦   L-- Pitch.docx
+    ¦   +-- Website (1 файлів)
+    ¦   ¦   L-- Content.txt
+=== Завершено: 03/06/2026 00:44:50 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури   | 3        | Успішно
+2. Наповнення файлів     | 3          | Успішно
+3. Унікальне наповнення  | 3        | Успішно
+4. Перевірка структури   | 3         | Успішно
+=== Структура проекту з підрахунком ===
+Структура проекту:
++-- Universal Golden_Step (8 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- summary.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 25
+Папок: 12
+=== Тривалість виконання: 00:00:01.8702045 ===

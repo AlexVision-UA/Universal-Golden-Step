@@ -1,0 +1,259 @@
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури   | 3        | Успішно
+2. Наповнення файлів     | 3          | Успішно
+3. Унікальне наповнення  | 3        | Успішно
+4. Перевірка структури   | 3         | Успішно
+=== Загальна статистика ===
+Файлів: 25
+Папок: 12
+=== Тривалість виконання: 00:00:02.1644926 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури   | 3        | Успішно
+2. Наповнення файлів     | 3          | Успішно
+3. Унікальне наповнення  | 3        | Успішно
+4. Перевірка структури   | 3         | Успішно
+=== Загальна статистика ===
+Файлів: 25
+Папок: 12
+=== Тривалість виконання: 00:00:01.8702045 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури    | 3         | Успішно
+2. Наповнення файлів      | 3         | Успішно
+3. Унікальне наповнення   | 3         | Успішно
+4. Перевірка структури    | 3         | Успішно
+Структура проекту:
++-- Universal Golden_Step (10 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- run_log_2026-03-06_09-11.txt
+¦   L-- summary.csv
+¦   L-- summary.txt
+¦   +-- Archive (0 файлів)
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 27
+Папок: 13
+=== Тривалість виконання: 00:00:03.3745679 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури    | 3         | Успішно
+2. Наповнення файлів      | 3         | Успішно
+3. Унікальне наповнення   | 3         | Успішно
+4. Перевірка структури    | 3         | Успішно
+Структура проекту:
++-- Universal Golden_Step (11 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- run_log_2026-03-06_09-11.txt
+¦   L-- run_log_2026-03-06_09-19.txt
+¦   L-- summary.csv
+¦   L-- summary.txt
+¦   +-- 2026-03-06 (0 файлів)
+¦   ¦   +-- Archive (0 файлів)
+¦   +-- Archive (3 файлів)
+¦   ¦   L-- run_log_2026-03-06_09-11.txt
+¦   ¦   L-- summary_2026-03-06_09-11.csv
+¦   ¦   L-- summary_2026-03-06_09-11.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 31
+Папок: 15
+=== Тривалість виконання: 00:00:03.8481842 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури    | 3         | Успішно
+2. Наповнення файлів      | 3         | Успішно
+3. Унікальне наповнення   | 3         | Успішно
+4. Перевірка структури    | 3         | Успішно
+Структура проекту:
++-- Universal Golden_Step (12 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- run_log_2026-03-06_09-11.txt
+¦   L-- run_log_2026-03-06_09-19.txt
+¦   L-- run_log_2026-03-06_09-26.txt
+¦   L-- summary.csv
+¦   L-- summary.txt
+¦   +-- 2026-03-06 (0 файлів)
+¦   ¦   +-- Archive (3 файлів)
+¦   ¦   ¦   L-- run_log_2026-03-06_09-19.txt
+¦   ¦   ¦   L-- summary_2026-03-06_09-19.csv
+¦   ¦   ¦   L-- summary_2026-03-06_09-19.txt
+¦   +-- Archive (3 файлів)
+¦   ¦   L-- run_log_2026-03-06_09-11.txt
+¦   ¦   L-- summary_2026-03-06_09-11.csv
+¦   ¦   L-- summary_2026-03-06_09-11.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 35
+Папок: 15
+=== Тривалість виконання: 00:00:04.1164452 ===
+Крок                     | Елементів | Статус
+-------------------------|-----------|-----------------
+1. Створення структури    | 3         | Успішно
+2. Наповнення файлів      | 3         | Успішно
+3. Унікальне наповнення   | 3         | Успішно
+4. Перевірка структури    | 3         | Успішно
+Структура проекту:
++-- Universal Golden_Step (14 файлів)
+¦   L-- check_files.ps1
+¦   L-- check_structure.ps1
+¦   L-- create_structure.ps1
+¦   L-- fill_files.ps1
+¦   L-- fill_unique.ps1
+¦   L-- run_all.ps1
+¦   L-- run_log.txt
+¦   L-- run_log_2026-03-06_09-11.txt
+¦   L-- run_log_2026-03-06_09-19.txt
+¦   L-- run_log_2026-03-06_09-26.txt
+¦   L-- run_log_2026-03-06_09-33.txt
+¦   L-- summary.csv
+¦   L-- summary.txt
+¦   L-- summary_2026-03-06_09-26.pdf
+¦   +-- 2026-03-06 (0 файлів)
+¦   ¦   +-- Archive (6 файлів)
+¦   ¦   ¦   L-- run_log_2026-03-06_09-19.txt
+¦   ¦   ¦   L-- run_log_2026-03-06_09-26.txt
+¦   ¦   ¦   L-- summary_2026-03-06_09-19.csv
+¦   ¦   ¦   L-- summary_2026-03-06_09-19.txt
+¦   ¦   ¦   L-- summary_2026-03-06_09-26.csv
+¦   ¦   ¦   L-- summary_2026-03-06_09-26.txt
+¦   +-- Archive (3 файлів)
+¦   ¦   L-- run_log_2026-03-06_09-11.txt
+¦   ¦   L-- summary_2026-03-06_09-11.csv
+¦   ¦   L-- summary_2026-03-06_09-11.txt
+¦   +-- Core (2 файлів)
+¦   ¦   L-- Architecture.docx
+¦   ¦   L-- Functions.md
+¦   +-- Docs (2 файлів)
+¦   ¦   L-- Reports.docx
+¦   ¦   L-- Transparency.md
+¦   +-- Legal (3 файлів)
+¦   ¦   L-- Concept.docx
+¦   ¦   L-- NDA.docx
+¦   ¦   L-- Statute.docx
+¦   ¦   +-- Agreements (2 файлів)
+¦   ¦   ¦   L-- NDA.docx
+¦   ¦   ¦   L-- Partnership_Agreement.docx
+¦   +-- Modules (0 файлів)
+¦   ¦   +-- Analytics (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Business (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Charity (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Education (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   ¦   +-- Social (1 файлів)
+¦   ¦   ¦   L-- Overview.md
+¦   +-- Presentation (2 файлів)
+¦   ¦   L-- Full_Presentation.pptx
+¦   ¦   L-- Pitch.docx
+¦   +-- Website (1 файлів)
+¦   ¦   L-- Content.txt
+=== Загальна статистика ===
+Файлів: 40
+Папок: 15
+=== Тривалість виконання: 00:00:04.0498462 ===
