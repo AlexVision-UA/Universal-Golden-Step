@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# 🌍 Universal Golden Step
+# 🌍 Universal Golden Step
 **Багатомовний опис / Multilingual description**  
 Українська ↓ | English ↓ | Polski ↓ | Deutsch ↓
 
@@ -148,4 +147,3 @@ Our portal is designed to give clients confidence in every process and provide a
 ---
 
 © Universal Golden Step, 2026
->>>>>>> e5c20a6907a8b38804be25a89b61c63f792c5c33
